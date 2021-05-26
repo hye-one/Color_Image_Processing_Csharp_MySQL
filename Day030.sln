@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day030_컬러영상처리+openCV", "Day015-1 칼라 영상 처리 (Beta 1)\Day030_컬러영상처리+openCV.csproj", "{BB52279A-8343-4550-B5CA-F38D9F7C76BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "컬러영상처리+DB연동", "Day030_칼라영상처리(withDB연동, openCV)\컬러영상처리+DB연동.csproj", "{8EDBBF1B-778B-4B47-A211-2F5837508829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{B54FC6D9-AB38-4BA8-99C4-8360051EB3AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opencv_test", "Day029_03_openCV기본\opencv_test.csproj", "{538696E0-938A-4BC8-9C72-C8AA8D113E0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI컬러영상처리(with.DB연동,openCV)", "GUI_칼라영상처리(withDB연동, openCV)\GUI컬러영상처리(with.DB연동,openCV).csproj", "{EAA65A31-5FCB-4EAB-B4A6-C78ED07D38D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST_WINFORM_Csharp", "TEST_WINFORM_Csharp\TEST_WINFORM_Csharp\TEST_WINFORM_Csharp.csproj", "{43495D5A-78EF-433A-8AA7-29C69DA6D456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB52279A-8343-4550-B5CA-F38D9F7C76BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB52279A-8343-4550-B5CA-F38D9F7C76BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB52279A-8343-4550-B5CA-F38D9F7C76BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB52279A-8343-4550-B5CA-F38D9F7C76BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDBBF1B-778B-4B47-A211-2F5837508829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDBBF1B-778B-4B47-A211-2F5837508829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDBBF1B-778B-4B47-A211-2F5837508829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDBBF1B-778B-4B47-A211-2F5837508829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54FC6D9-AB38-4BA8-99C4-8360051EB3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54FC6D9-AB38-4BA8-99C4-8360051EB3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54FC6D9-AB38-4BA8-99C4-8360051EB3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54FC6D9-AB38-4BA8-99C4-8360051EB3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538696E0-938A-4BC8-9C72-C8AA8D113E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538696E0-938A-4BC8-9C72-C8AA8D113E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538696E0-938A-4BC8-9C72-C8AA8D113E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538696E0-938A-4BC8-9C72-C8AA8D113E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA65A31-5FCB-4EAB-B4A6-C78ED07D38D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA65A31-5FCB-4EAB-B4A6-C78ED07D38D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA65A31-5FCB-4EAB-B4A6-C78ED07D38D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA65A31-5FCB-4EAB-B4A6-C78ED07D38D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43495D5A-78EF-433A-8AA7-29C69DA6D456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43495D5A-78EF-433A-8AA7-29C69DA6D456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43495D5A-78EF-433A-8AA7-29C69DA6D456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43495D5A-78EF-433A-8AA7-29C69DA6D456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9DB7CAA-EB78-42D7-9DD3-E24DFE6303A7}
+	EndGlobalSection
+EndGlobal
